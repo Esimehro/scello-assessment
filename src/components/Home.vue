@@ -442,7 +442,8 @@
         </tbody>
       </table>
       
-      <div class="flex justify-end gap-12 w-full bg-[#F4F2FF] py-2 px-6">
+     </div>
+     <div class="flex justify-end gap-12 w-full bg-[#F4F2FF] py-2 px-6">
         <span class="flex items-center gap-3">
           <p
             class="text-xs font-semibold leading-[14.52px] tracking-wide text-[#6E6893]"
@@ -473,7 +474,6 @@
           </button>
         </span>
       </div>
-     </div>
     </section>
   </main>
 </template>
